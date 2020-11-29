@@ -4,6 +4,7 @@ var output = document.querySelector('#outputTxt');
 button.addEventListener('click', () => {
     var inputText = document.querySelector('#inputTxt').value
 
+    //Mock response
     // var data={
     //     "success": {
     //         "total": 1
